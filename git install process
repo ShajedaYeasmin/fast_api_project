@@ -1,0 +1,13 @@
+Step-1
+1.git init
+2.git add .
+3.gir status
+4.git commit -m "Create folder"
+5.git branch -M main
+6.git status
+7.git remote add origin ULR(from repository)
+8.git push -u origin main
+9.Go to Github and reload and connection project to github
+Step-2
+
+
